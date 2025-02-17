@@ -3,7 +3,5 @@ package com.example.GifPoject.entity;
 import jakarta.persistence.Entity;
 
 @Entity
-public class Camion {
-
-    private Integer idCamion;
+public class Motoscafo {
 }
