@@ -1,4 +1,4 @@
-package com.example.GifPoject.entity;
+package com.example.GitPoject.entity;
 
 import jakarta.persistence.Entity;
 
