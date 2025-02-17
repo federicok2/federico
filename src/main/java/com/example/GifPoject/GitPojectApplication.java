@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GifPojectApplication {
+public class GitPojectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GifPojectApplication.class, args);
+		SpringApplication.run(GitPojectApplication.class, args);
 	}
 
 }
